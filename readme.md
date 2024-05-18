@@ -2,7 +2,7 @@
 
 ## Instructions for assembling the project.
 
-1) CMake command for project configuration (run from project root).
+1) CMake command to configure the project (run from project root).
 
 ```bash
 cmake -S . -B build
