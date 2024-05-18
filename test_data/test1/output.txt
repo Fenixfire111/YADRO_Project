@@ -1,0 +1,23 @@
+05:00
+04:43 4 client2
+04:43 13 ClientUnknown
+05:01 2 client1 1
+05:01 13 ClientUnknown
+05:10 1 client1
+05:10 3 client1
+05:10 13 ICanWaitNoLonger
+06:00 2 client1 1
+07:01 1 client2
+07:10 2 client2 1
+07:10 13 PlaceIsBusy
+09:00 2 client2 2
+15:00 4 client1
+18:00 11 client2
+19:00 4 client2
+19:00 13 ClientUnknown
+18:00
+1 900 09:00
+2 900 09:00
+3 0 00:00
+4 0 00:00
+5 0 00:00
